@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Unordered Set](unordered_set.md)
+- Next: [Unordered Multiset](unordered_multiset.md)
+- Related: [Set](set.md), [Map](map.md)
+
+------------------------------------------------------------------------
+
 # What is a Multiset?
 
 A **multiset** is an ordered associative container that stores elements

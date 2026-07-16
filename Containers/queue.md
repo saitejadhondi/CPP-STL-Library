@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Stack](stack.md)
+- Next: [Deque](deque.md)
+- Related: [Priority Queue](priority_queue.md), [Vector](vector.md)
+
+------------------------------------------------------------------------
+
 # What is a Queue?
 
 A **queue** is a linear data structure that follows the **FIFO (First

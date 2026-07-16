@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Deque](deque.md)
+- Next: [Set](set.md)
+- Related: [Queue](queue.md), [Stack](stack.md)
+
+------------------------------------------------------------------------
+
 # What is a Priority Queue?
 
 A **Priority Queue** is a container adaptor where the element with the

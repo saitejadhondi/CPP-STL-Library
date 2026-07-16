@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Unordered Multiset](unordered_multiset.md)
+- Next: [Unordered Map](unordered_map.md)
+- Related: [Multimap](multimap.md), [Set](set.md)
+
+------------------------------------------------------------------------
+
 # What is a Map?
 
 A **map** is an ordered associative container that stores **key-value

@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Map](map.md)
+- Next: [Multimap](multimap.md)
+- Related: [Unordered Multimap](unordered_multimap.md), [Unordered Multiset](unordered_multiset.md)
+
+------------------------------------------------------------------------
+
 # What is an Unordered Map?
 
 `std::unordered_map` is an associative container that stores **key-value

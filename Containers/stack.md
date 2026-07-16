@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Vector](vector.md)
+- Next: [Queue](queue.md)
+- Related: [Deque](deque.md), [Priority Queue](priority_queue.md)
+
+------------------------------------------------------------------------
+
 # What is a Stack?
 
 A **stack** is a linear data structure that follows the **LIFO (Last In,

@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Priority Queue](priority_queue.md)
+- Next: [Unordered Set](unordered_set.md)
+- Related: [Multiset](multiset.md), [Map](map.md)
+
+------------------------------------------------------------------------
+
 # What is a Set?
 
 A **Set** is an ordered associative container that stores **unique

@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Set](set.md)
+- Next: [Multiset](multiset.md)
+- Related: [Unordered Multiset](unordered_multiset.md), [Map](map.md)
+
+------------------------------------------------------------------------
+
 # What is an Unordered Set?
 
 `std::unordered_set` stores **unique elements** using a **Hash Table**.

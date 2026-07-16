@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Unordered Map](unordered_map.md)
+- Next: [Unordered Multimap](unordered_multimap.md)
+- Related: [Map](map.md), [Multiset](multiset.md)
+
+------------------------------------------------------------------------
+
 # What is a Multimap?
 
 A **multimap** is an ordered associative container that stores

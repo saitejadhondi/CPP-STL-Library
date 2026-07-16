@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Queue](queue.md)
+- Next: [Priority Queue](priority_queue.md)
+- Related: [Vector](vector.md), [Stack](stack.md)
+
+------------------------------------------------------------------------
+
 # What is a Deque?
 
 A **Deque (Double Ended Queue)** is a sequence container that allows

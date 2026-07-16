@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Multiset](multiset.md)
+- Next: [Map](map.md)
+- Related: [Unordered Set](unordered_set.md), [Unordered Map](unordered_map.md)
+
+------------------------------------------------------------------------
+
 # What is an Unordered Multiset?
 
 `std::unordered_multiset` is a hash-table based associative container

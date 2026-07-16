@@ -4,6 +4,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: [Multimap](multimap.md)
+- Next: End of the sequence
+- Related: [Unordered Map](unordered_map.md), [Map](map.md)
+
+------------------------------------------------------------------------
+
 # What is an Unordered Multimap?
 
 `std::unordered_multimap` is a hash table-based associative container

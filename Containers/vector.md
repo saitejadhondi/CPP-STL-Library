@@ -5,6 +5,14 @@
 
 ------------------------------------------------------------------------
 
+## Learning path
+
+- Previous: Start here
+- Next: [Stack](stack.md)
+- Related: [Queue](queue.md), [Deque](deque.md)
+
+------------------------------------------------------------------------
+
 # What is a Vector?
 
 A **vector** is a **dynamic array** provided by the C++ Standard
